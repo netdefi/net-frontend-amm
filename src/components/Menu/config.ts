@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.netdefi.com/'
+    href: 'https://master.d3fzvs9fvbhvcn.amplifyapp.com/'
   },
   {
     label: 'Trade',
