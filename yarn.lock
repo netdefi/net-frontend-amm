@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@netdefi/net-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/netdefi/net-uikit/tar.gz/3e8396266394c28413537bf257c58310a4dcc1ed"
+  resolved "https://codeload.github.com/netdefi/net-uikit/tar.gz/4c8ffbd182d9de75a4ff8b250f9d82dfbc9a74eb"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

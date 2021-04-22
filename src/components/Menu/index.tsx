@@ -17,7 +17,7 @@ const Menu: React.FC = props => {
   return (
     <UikitMenu
       links={links}
-      priceLink="https://www.coingecko.com/en/coins/net-finance"
+      priceLink="https://pancakeswap.info/token/0xD90eAD48B86955552EC264266CADaecF8e17d6A6"
       account={account as string}
       login={(connectorId: ConnectorId) => {
         if (connectorId === 'walletconnect') {
