@@ -4,11 +4,11 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://octax.finance/'
+    href: 'https://master.d3fzvs9fvbhvcn.amplifyapp.com/'
   },{
     label: 'Referral',
     icon: 'ReferralIcon',
-    href: 'https://octax.finance/referral',
+    href: 'https://master.d3fzvs9fvbhvcn.amplifyapp.com/referral',
   },
   {
     label: 'Trade',
@@ -28,12 +28,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://octax.finance/farms'
+    href: 'https://master.d3fzvs9fvbhvcn.amplifyapp.com/farms'
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://octax.finance/nests'
+    href: 'https://master.d3fzvs9fvbhvcn.amplifyapp.com/nests'
   },
   // {
   //   label: 'Lottery',
